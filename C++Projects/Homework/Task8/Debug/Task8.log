@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Task8.cpp
+d:\c++projects\homework\task8\task8.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+  Task8.vcxproj -> D:\C++Projects\Homework\Debug\Task8.exe

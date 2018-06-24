@@ -1,0 +1,4 @@
+﻿  Classwork3.cpp
+d:\c++projects\classwork3\classwork3\classwork3.cpp(54): warning C4154: удаление массива; выполнено преобразование к указателю
+d:\c++projects\classwork3\classwork3\classwork3.cpp(55): warning C4154: удаление массива; выполнено преобразование к указателю
+  Classwork3.vcxproj -> D:\C++Projects\Classwork3\Debug\Classwork3.exe

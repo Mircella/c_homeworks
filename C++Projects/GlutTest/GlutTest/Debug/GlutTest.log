@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  GlutTest.cpp
+LINK : fatal error LNK1104: не удается открыть файл "glut32.lib"
+C:\Program Files\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(651,5): error MSB6006: "link.exe" завершилась с кодом 1104.

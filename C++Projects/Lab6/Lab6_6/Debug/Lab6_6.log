@@ -1,0 +1,5 @@
+﻿  Lab6_6.cpp
+d:\c++projects\lab6\lab6_6\lab6_6.cpp(35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\c++projects\lab6\lab6_6\lab6_6.cpp(36): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+d:\c++projects\lab6\lab6_6\lab6_6.cpp(46): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Lab6_6.vcxproj -> D:\C++Projects\Lab6\Debug\Lab6_6.exe

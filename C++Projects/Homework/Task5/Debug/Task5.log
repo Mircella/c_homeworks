@@ -1,0 +1,3 @@
+﻿  Task5.cpp
+d:\c++projects\homework\task5\task5.cpp(23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Task5.vcxproj -> D:\C++Projects\Homework\Debug\Task5.exe

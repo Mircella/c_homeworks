@@ -1,0 +1,2 @@
+﻿  Homework5.cpp
+d:\c++projects\homework5\homework5\homework5.cpp(11): fatal error C1010: непредвиденный конец файла во время поиска предкомпилированного заголовка. Возможно, вы забыли добавить директиву "#include "stdafx.h"" в источник.

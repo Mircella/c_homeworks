@@ -1,0 +1,5 @@
+﻿  HW_5_8.cpp
+d:\c++projects\homework5\hw_5_8\hw_5_8.cpp(41): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++projects\homework5\hw_5_8\hw_5_8.cpp(197): warning C4018: <: несоответствие типов со знаком и без знака
+d:\c++projects\homework5\hw_5_8\hw_5_8.cpp(191): warning C4172: возвращение адреса локальной или временной переменной : astrologyArray
+  HW_5_8.vcxproj -> D:\C++Projects\Homework5\Debug\HW_5_8.exe
